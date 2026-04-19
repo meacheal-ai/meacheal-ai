@@ -68,7 +68,7 @@ I publish original research on the discovery-vs-verification gap in supply chain
 ## Connect
 
 - 🌐 [meacheal.ai](https://meacheal.ai)
-- 💼 LinkedIn — [in/dongliangye](https://www.linkedin.com/in/dongliangye/)
+- 💼 LinkedIn — [in/dongliang-ye-a93644206](https://www.linkedin.com/in/dongliang-ye-a93644206/)
 - 📧 [api@meacheal.ai](mailto:api@meacheal.ai)
 
 If you're working on **vertical AI data infrastructure** — in food supply chain, critical minerals, cross-border pharma, or any other industry where existing B2B data is supplier-self-declared — I'd genuinely like to compare notes.
