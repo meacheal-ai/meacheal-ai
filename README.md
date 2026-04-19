@@ -65,7 +65,7 @@ I publish original research on the discovery-vs-verification gap in supply chain
 
 ---
 
-## Connect
+## Connect 
 
 - 🌐 [meacheal.ai](https://meacheal.ai)
 - 💼 LinkedIn — [in/dongliang-ye-a93644206](https://www.linkedin.com/in/dongliang-ye-a93644206/)
